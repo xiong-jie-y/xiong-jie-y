@@ -8,3 +8,4 @@ My area is computer vision.
 * Other projects
   * [onapy](https://github.com/xiong-jie-y/onapy): The python module to use masterbator as a controller.
   * [kawaii-girl-generator](https://github.com/xiong-jie-y/kawaii_girl_generator): The GAN to generate kawaii girl photos.
+* [Contributions to other OSS](https://github.com/xiong-jie-y/xiong-jie-y/blob/master/contributions.md)
