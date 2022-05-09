@@ -1,7 +1,9 @@
 # Profile
 My area is computer vision.
+I will try to contribute more OSSs this year.
+Please help me :D
 
-* The focusing project
+## The past projects
   * 3D Reconstruction
     * Quilt video generator for Lookin Glass from a monocular video.
     * General 3D Reconstruction
