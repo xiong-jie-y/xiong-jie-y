@@ -1,7 +1,7 @@
 # Profile
 My area is computer vision.
 
-I will focus on contribution on more OSSs this year.
+I will focus on contribution on more OSSs this year 🙂
 
 ## The past projects
   * 3D Reconstruction
